@@ -1,3 +1,3 @@
 # UDS-on-CAN
-We are AutoCrypt(https://autocrypt.co.kr/) :)
 
+This repository is for [AutoCrypt](https://autocrypt.co.kr/) CTF solution.
